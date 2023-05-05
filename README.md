@@ -1,7 +1,16 @@
-# Proyecto_Limpieza_git
-# Screenshots
-<!-- ![PRIMER IMAGEN]("public/images/empresavirtual.jpg") -->
+# Proyecto Limpieza
 
+Sistema para la administración de camaristas, hoteles y usuarios.
+## Caracteristicas
+
+- Administra la informacion de hoteles, camaristas y usuarios.
+- Realiza el cuestionario diario de cada hotel.
+- Crea usuarios con roles asignados.
+
+### Proyecto Limpieza
+Version del sistema: 1.10.26
+
+# Screenshots
 
 <img width="960" alt="1 -login" src="https://user-images.githubusercontent.com/105396177/236547376-c9aeb11b-5374-423b-9190-69c2a38b13ce.PNG">
 <img width="960" alt="2 -dash" src="https://user-images.githubusercontent.com/105396177/236547390-02f65d33-ed55-4be7-a869-0228a977b436.PNG">
@@ -10,3 +19,5 @@
 <img width="960" alt="5 -camaristas" src="https://user-images.githubusercontent.com/105396177/236547453-bd27cc2a-030c-40be-b3a8-98c6ea13cc07.PNG">
 <img width="960" alt="6 -cuestionario" src="https://user-images.githubusercontent.com/105396177/236547463-f96e14f5-1f03-4a04-adec-7bc82f7d8b65.PNG">
 <img width="960" alt="7 -" src="https://user-images.githubusercontent.com/105396177/236547472-59a4aa01-fcf8-402b-aa78-fb3cc656079a.PNG">
+
+
